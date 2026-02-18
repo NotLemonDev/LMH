@@ -46,8 +46,9 @@ gcc LMH.c -o LMH
 
 
 
-# RPG is for testing btw
 
 ```bash
 ./LMH
 ```
+
+# RPG is for testing btw
