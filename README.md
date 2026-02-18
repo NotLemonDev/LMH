@@ -1,4 +1,4 @@
-> [!NOTICE]
+> [!Warning]
 > THIS IS FOR EDUCATIONAL AND TESTING PURPOSES ONLY!
 
 # Lemon's ***minimal*** Memory Hacker
