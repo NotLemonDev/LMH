@@ -35,7 +35,7 @@ pacman -S gcc
 ```
 Finally compile and run:
 ```bash
-gcc LMH.c -o LMH
+gcc main.c -o LMH
 ```
 
 
