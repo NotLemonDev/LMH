@@ -20,7 +20,7 @@ kind of simple
 Linux/macOS:
 (you need gcc)
 ```bash
-gcc LMH.c -o LMH
+gcc main.c -o LMH
 ```
 then run with:
 ```bash
