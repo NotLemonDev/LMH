@@ -62,8 +62,4 @@ ELSE
 Download manually LMH.exe and msys-2.0.dll
 keep them in the same directory or else lmh will break
 
-
-
-Default install dir: %localappdata%\LemonsMemoryHacker\
-
 RPG is for testing btw
