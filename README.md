@@ -54,4 +54,12 @@ gcc main.c -o LMH
 ./LMH
 ```
 
-# RPG is for testing btw
+# Installing
+Run setup-win-mingw.exe
+
+ELSE
+
+Download manually LMH.exe and msys-2.0.dll
+keep them in the same directory or else lmh will break
+
+RPG is for testing btw
