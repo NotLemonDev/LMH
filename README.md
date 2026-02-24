@@ -48,8 +48,18 @@ gcc main.c -o LMH
 
 
 
+Powershell:
 
+```ps1
+./LMH
+```
 
+Command Prompt
+```bash
+LMH
+```
+
+MSYS2 (bash)
 ```bash
 ./LMH
 ```
@@ -62,4 +72,6 @@ ELSE
 Download manually LMH.exe and msys-2.0.dll
 keep them in the same directory or else lmh will break
 
+.
+.
 RPG is for testing btw
