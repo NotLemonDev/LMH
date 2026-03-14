@@ -8,10 +8,22 @@ Simple memory hacking program written in C! (with a test program included)
 >  the commands:
 > - write
 > - read
+> - getpid
+> - scan
+> - safescan
+> - nextscan
 >
->  *write* requires the program PID and the adress of the value you would like to write in.
+> *write* requires the program PID and the adress of the value you would like to write in.
 > 
->  *read* requires the program PID and the adress of the value you would like to read.
+> *read* requires the program PID and the adress of the value you would like to read.
+>
+> *getpid* lists every program + the pid
+>
+> *scan* requires the program PID and the value you would like to scan for. WARNING: DO NOT USE ON REAL GAMES, USE SAFESCAN INSTEAD.
+>
+> *safescan* the same as scan but limits entries to 1000
+>
+> *nextscan* similar to CE's (Cheat Engine) multi stage scan.
 
 kind of simple
 
@@ -48,6 +60,7 @@ gcc main.c -o LMH
 
 
 
+
 Powershell:
 
 ```ps1
@@ -72,6 +85,9 @@ ELSE
 Download manually LMH.exe and msys-2.0.dll
 keep them in the same directory or else lmh will break
 
-.
-.
-RPG is for testing btw
+# Latest Updates
+LMH - v1.1
+new commands (getpid, scan, safescan, nextscan)
+new training programs
+scan command can be multi stage
+safescan limits every scan to 1000 entries
