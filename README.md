@@ -87,7 +87,11 @@ keep them in the same directory or else lmh will break
 
 # Latest Updates
 LMH - v1.1
+
 new commands (getpid, scan, safescan, nextscan)
+
 new training programs
+
 scan command can be multi stage
+
 safescan limits every scan to 1000 entries
