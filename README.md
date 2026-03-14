@@ -12,6 +12,7 @@ Simple memory hacking program written in C! (with a test program included)
 > - scan
 > - safescan
 > - nextscan
+> - results
 >
 > *write* requires the program PID and the adress of the value you would like to write in.
 > 
@@ -24,6 +25,8 @@ Simple memory hacking program written in C! (with a test program included)
 > *safescan* the same as scan but limits entries to 1000
 >
 > *nextscan* similar to CE's (Cheat Engine) multi stage scan.
+>
+> *results* prints out first 20 results
 
 kind of simple
 
@@ -88,7 +91,7 @@ keep them in the same directory or else lmh will break
 # Latest Updates
 LMH - v1.1
 
-new commands (getpid, scan, safescan, nextscan)
+new commands (getpid, scan, safescan, nextscan, results)
 
 new training programs
 
